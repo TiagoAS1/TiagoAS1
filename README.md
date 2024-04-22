@@ -15,26 +15,16 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TiagoAS1&theme=vue-dark&hide_border=false)
 
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoAS1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
 
-<p align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
-<p align="center">
-
 [![](https://visitcount.itsvg.in/api?id=TiagoAS1&icon=0&color=3)](https://visitcount.itsvg.in)
-
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
