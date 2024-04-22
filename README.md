@@ -2,7 +2,7 @@
 
 # 🌐 Socials:
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TiagoAS1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TiagoAS1)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TiagoAS1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoa-santos/)
 
 # 💻 Technologies:
 
@@ -10,17 +10,18 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=TiagoAS1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TiagoAS1&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TiagoAS1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=TiagoAS1&theme=vue-dark&hide_border=false)
+
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoAS1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=TiagoAS1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 
@@ -31,7 +32,9 @@
 ---
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=TiagoAS1&icon=0&color=3)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=TiagoAS1&icon=0&color=3)](https://visitcount.itsvg.in)
+
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
